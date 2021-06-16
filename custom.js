@@ -68,6 +68,6 @@ Promise.prototype._finally = function (onFulfilled) {
     return this;
 };
 
-Promise.resolve('pppp')
-    ._finally(() => console.log('hello'))
+Promise.resolve('Promise.prototype._finally, вернула промис')
+    ._finally(() => console.log('Promise.prototype._finally, функция выполненная в не зависимости от результата выполнения промиса'))
     .then(console.log);
