@@ -3,6 +3,7 @@
 https://wof4.github.io/shri-async/
 
 ### ссылка на задание rxjs 
+"задание не было выполненно во время"
 https://github.com/wof4/shri-home-work_rxjs
 
 
