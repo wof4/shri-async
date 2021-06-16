@@ -15,7 +15,7 @@ function(array: AsyncArray, cb: (result: Number) => void) {
 
 }
 
----функция "getMaxNmber" описана в файле getMaxNmber.js
+---функция "getMaxNumber" описана в файле getMaxNumber.js
 ---Дополнительно для проверки запускается с массивом аргументов и результат выводит в консоль
 ---код асинхронного API описан в файле api.js
 ```
